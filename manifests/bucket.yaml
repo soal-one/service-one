@@ -1,0 +1,4 @@
+kind: Bucket
+name: lol-so-random
+versioning: false
+storageClass: "STANDARD"
