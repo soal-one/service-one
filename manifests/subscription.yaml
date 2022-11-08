@@ -1,0 +1,6 @@
+kind: "Subscription"
+deadLetter: true
+name: "topic-one"
+topic: "topic-one"
+serviceName: "bar"
+pushEndpoint: "https://bar.svc.cluster.local/push"
